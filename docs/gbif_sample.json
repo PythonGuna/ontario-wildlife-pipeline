@@ -1,0 +1,6096 @@
+[
+  {
+    "key": 5006690763,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:04:28.970+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T15:10:21-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461012341/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461012341",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461012341",
+          "http://purl.org/dc/terms/rightsHolder": "Carter Dorscht",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Carter Dorscht"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "6Z4QZ",
+          "name": "Sitta carolinensis Latham, 1790",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Latham, 1790",
+          "genericName": "Sitta",
+          "specificEpithet": "carolinensis",
+          "formattedName": "<i>Sitta</i> <i>carolinensis</i> Latham, 1790"
+        },
+        "acceptedUsage": {
+          "key": "6Z4QZ",
+          "name": "Sitta carolinensis Latham, 1790",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Latham, 1790",
+          "genericName": "Sitta",
+          "specificEpithet": "carolinensis",
+          "formattedName": "<i>Sitta</i> <i>carolinensis</i> Latham, 1790"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3RL",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "626XK",
+            "name": "Sittidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "7HWK",
+            "name": "Sitta",
+            "rank": "GENUS"
+          },
+          {
+            "key": "6Z4QZ",
+            "name": "Sitta carolinensis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "2484892",
+          "name": "Sitta carolinensis Latham, 1790",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Latham, 1790",
+          "genericName": "Sitta",
+          "specificEpithet": "carolinensis",
+          "formattedName": "<i>Sitta</i> <i>carolinensis</i> Latham, 1790"
+        },
+        "acceptedUsage": {
+          "key": "2484892",
+          "name": "Sitta carolinensis Latham, 1790",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Latham, 1790",
+          "genericName": "Sitta",
+          "specificEpithet": "carolinensis",
+          "formattedName": "<i>Sitta</i> <i>carolinensis</i> Latham, 1790"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "729",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "5283",
+            "name": "Sittidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2484878",
+            "name": "Sitta",
+            "rank": "GENUS"
+          },
+          {
+            "key": "2484892",
+            "name": "Sitta carolinensis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 2484892,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 729,
+    "familyKey": 5283,
+    "genusKey": 2484878,
+    "speciesKey": 2484892,
+    "acceptedTaxonKey": 2484892,
+    "scientificName": "Sitta carolinensis Latham, 1790",
+    "scientificNameAuthorship": "Latham, 1790",
+    "acceptedScientificName": "Sitta carolinensis Latham, 1790",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Passeriformes",
+    "family": "Sittidae",
+    "genus": "Sitta",
+    "species": "Sitta carolinensis",
+    "genericName": "Sitta",
+    "specificEpithet": "carolinensis",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-01T20:52:59",
+    "decimalLatitude": 46.497453,
+    "decimalLongitude": -84.040651,
+    "coordinateUncertaintyInMeters": 3.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.1_1",
+        "name": "Algoma"
+      },
+      "level3": {
+        "gid": "CAN.9.1.17_1",
+        "name": "Macdonald, Meredith and Aberdeen"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 1,
+    "eventDate": "2025-01-01T15:10:21",
+    "startDayOfYear": 1,
+    "endDayOfYear": 1,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-02T00:25:17.000+00:00",
+    "lastInterpreted": "2026-09-30T02:04:28.970+00:00",
+    "references": "https://www.inaturalist.org/observations/257041028",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257041028"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461012341",
+        "created": "2025-01-01T23:10:21.000+00:00",
+        "creator": "Carter Dorscht",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "rightsHolder": "Carter Dorscht",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461012341/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Carter Dorscht",
+    "identifiedBy": "Carter Dorscht",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Carter Dorscht",
+    "identifier": "257041028",
+    "http://unknown.org/nick": "carterdorscht",
+    "verbatimEventDate": "2025-01-01 15:10:21",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006690763",
+    "verbatimLocality": "Algoma, CA-ON, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257041028",
+    "taxonID": "14801",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257041028",
+    "institutionCode": "iNaturalist",
+    "eventTime": "15:10:21-05:00",
+    "identificationID": "579311726"
+  },
+  {
+    "key": 5006690815,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:56:08.255+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T11:49:37-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461048793/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461048793",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461048793",
+          "http://purl.org/dc/terms/rightsHolder": "Samuel Perfect",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Samuel Perfect"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "49JSC",
+          "name": "Ondatra zibethicus (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Ondatra",
+          "specificEpithet": "zibethicus",
+          "formattedName": "<i>Ondatra</i> <i>zibethicus</i> (Linnaeus, 1766)"
+        },
+        "acceptedUsage": {
+          "key": "49JSC",
+          "name": "Ondatra zibethicus (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Ondatra",
+          "specificEpithet": "zibethicus",
+          "formattedName": "<i>Ondatra</i> <i>zibethicus</i> (Linnaeus, 1766)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "6224G",
+            "name": "Mammalia",
+            "rank": "CLASS"
+          },
+          {
+            "key": "6226C",
+            "name": "Theria",
+            "rank": "SUBCLASS"
+          },
+          {
+            "key": "LG",
+            "name": "Eutheria",
+            "rank": "INFRACLASS"
+          },
+          {
+            "key": "3Z5",
+            "name": "Rodentia",
+            "rank": "ORDER"
+          },
+          {
+            "key": "622X6",
+            "name": "Myomorpha",
+            "rank": "SUBORDER"
+          },
+          {
+            "key": "622LW",
+            "name": "Muroidea",
+            "rank": "SUPERFAMILY"
+          },
+          {
+            "key": "8P5",
+            "name": "Cricetidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "J6M",
+            "name": "Arvicolinae",
+            "rank": "SUBFAMILY"
+          },
+          {
+            "key": "63FYJ",
+            "name": "Ondatra",
+            "rank": "GENUS"
+          },
+          {
+            "key": "49JSC",
+            "name": "Ondatra zibethicus",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "5219858",
+          "name": "Ondatra zibethicus (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Ondatra",
+          "specificEpithet": "zibethicus",
+          "formattedName": "<i>Ondatra</i> <i>zibethicus</i> (Linnaeus, 1766)"
+        },
+        "acceptedUsage": {
+          "key": "5219858",
+          "name": "Ondatra zibethicus (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Ondatra",
+          "specificEpithet": "zibethicus",
+          "formattedName": "<i>Ondatra</i> <i>zibethicus</i> (Linnaeus, 1766)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "359",
+            "name": "Mammalia",
+            "rank": "CLASS"
+          },
+          {
+            "key": "1459",
+            "name": "Rodentia",
+            "rank": "ORDER"
+          },
+          {
+            "key": "3240723",
+            "name": "Cricetidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "5219857",
+            "name": "Ondatra",
+            "rank": "GENUS"
+          },
+          {
+            "key": "5219858",
+            "name": "Ondatra zibethicus",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 5219858,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 359,
+    "orderKey": 1459,
+    "familyKey": 3240723,
+    "genusKey": 5219857,
+    "speciesKey": 5219858,
+    "acceptedTaxonKey": 5219858,
+    "scientificName": "Ondatra zibethicus (Linnaeus, 1766)",
+    "scientificNameAuthorship": "(Linnaeus, 1766)",
+    "acceptedScientificName": "Ondatra zibethicus (Linnaeus, 1766)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Ondatra",
+    "species": "Ondatra zibethicus",
+    "genericName": "Ondatra",
+    "specificEpithet": "zibethicus",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-01T23:24:12",
+    "decimalLatitude": 45.503878,
+    "decimalLongitude": -75.494923,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.35_1",
+        "name": "Ottawa"
+      },
+      "level3": {
+        "gid": "CAN.9.35.1_1",
+        "name": "Ottawa"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 1,
+    "eventDate": "2025-01-01T11:49:37",
+    "startDayOfYear": 1,
+    "endDayOfYear": 1,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-27T21:25:34.000+00:00",
+    "lastInterpreted": "2026-09-30T02:56:08.255+00:00",
+    "references": "https://www.inaturalist.org/observations/257058022",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257058022"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461048793",
+        "created": "2025-01-01T19:49:37.000+00:00",
+        "creator": "Samuel Perfect",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Samuel Perfect",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461048793/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Samuel Perfect",
+    "identifiedBy": "Samuel Perfect",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Mammalia",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Samuel Perfect",
+    "identifier": "257058022",
+    "http://unknown.org/nick": "samuel_perfect",
+    "verbatimEventDate": "2025-01-01 11:49:37",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006690815",
+    "verbatimLocality": "GG34+VC Friends of Petrie Island, Ottawa, ON K4A 0S9, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257058022",
+    "taxonID": "45763",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257058022",
+    "institutionCode": "iNaturalist",
+    "eventTime": "11:49:37-05:00",
+    "identificationID": "579357154"
+  },
+  {
+    "key": 5006690828,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:56:33.765+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T16:21:01Z",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461059084/original.jpg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461059084",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461059084",
+          "http://purl.org/dc/terms/rightsHolder": "uwland_lee",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "uwland_lee"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "6NFHF",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "6NFHF",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3RL",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9G6YK",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "56XW",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "6NFHF",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "9362842",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "9362842",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "729",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9410667",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2492009",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9362842",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 9362842,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 729,
+    "familyKey": 9410667,
+    "genusKey": 2492009,
+    "speciesKey": 9362842,
+    "acceptedTaxonKey": 9362842,
+    "scientificName": "Junco hyemalis (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Junco hyemalis (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Passeriformes",
+    "family": "Passerellidae",
+    "genus": "Junco",
+    "species": "Junco hyemalis",
+    "genericName": "Junco",
+    "specificEpithet": "hyemalis",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-02T00:10:44",
+    "decimalLatitude": 43.774921,
+    "decimalLongitude": -79.367695,
+    "coordinateUncertaintyInMeters": 178.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.50_1",
+        "name": "Toronto"
+      },
+      "level3": {
+        "gid": "CAN.9.50.1_1",
+        "name": "Toronto"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 1,
+    "eventDate": "2025-01-01T11:21:01",
+    "startDayOfYear": 1,
+    "endDayOfYear": 1,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-02T13:35:32.000+00:00",
+    "lastInterpreted": "2026-09-30T02:56:33.765+00:00",
+    "references": "https://www.inaturalist.org/observations/257063248",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257063248"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461059084",
+        "created": "2025-01-01T16:21:01.000+00:00",
+        "creator": "uwland_lee",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "uwland_lee",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461059084/original.jpg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "uwland_lee",
+    "identifiedBy": "uwland_lee",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "uwland_lee",
+    "identifier": "257063248",
+    "http://unknown.org/nick": "uwland_lee",
+    "verbatimEventDate": "2025-01-01 11:21:01-05:00",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006690828",
+    "verbatimLocality": "Villaways Park, Toronto, ON, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257063248",
+    "taxonID": "10094",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257063248",
+    "institutionCode": "iNaturalist",
+    "eventTime": "11:21:01-05:00",
+    "identificationID": "579370164"
+  },
+  {
+    "key": 5006690829,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "US",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:04:55.952+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T14:22:24-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461059151/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461059151",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461059151",
+          "http://purl.org/dc/terms/rightsHolder": "Trent Massey",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Trent Massey"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "3ZDJV",
+          "name": "Meleagris gallopavo Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Meleagris",
+          "specificEpithet": "gallopavo",
+          "formattedName": "<i>Meleagris</i> <i>gallopavo</i> Linnaeus, 1758"
+        },
+        "acceptedUsage": {
+          "key": "3ZDJV",
+          "name": "Meleagris gallopavo Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Meleagris",
+          "specificEpithet": "gallopavo",
+          "formattedName": "<i>Meleagris</i> <i>gallopavo</i> Linnaeus, 1758"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "38Z",
+            "name": "Galliformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "625WG",
+            "name": "Phasianidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "5NN8",
+            "name": "Meleagris",
+            "rank": "GENUS"
+          },
+          {
+            "key": "3ZDJV",
+            "name": "Meleagris gallopavo",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "9606290",
+          "name": "Meleagris gallopavo Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Meleagris",
+          "specificEpithet": "gallopavo",
+          "formattedName": "<i>Meleagris</i> <i>gallopavo</i> Linnaeus, 1758"
+        },
+        "acceptedUsage": {
+          "key": "9606290",
+          "name": "Meleagris gallopavo Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Meleagris",
+          "specificEpithet": "gallopavo",
+          "formattedName": "<i>Meleagris</i> <i>gallopavo</i> Linnaeus, 1758"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "723",
+            "name": "Galliformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9331",
+            "name": "Phasianidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2473548",
+            "name": "Meleagris",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9606290",
+            "name": "Meleagris gallopavo",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 9606290,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 723,
+    "familyKey": 9331,
+    "genusKey": 2473548,
+    "speciesKey": 9606290,
+    "acceptedTaxonKey": 9606290,
+    "scientificName": "Meleagris gallopavo Linnaeus, 1758",
+    "scientificNameAuthorship": "Linnaeus, 1758",
+    "acceptedScientificName": "Meleagris gallopavo Linnaeus, 1758",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Meleagris",
+    "species": "Meleagris gallopavo",
+    "genericName": "Meleagris",
+    "specificEpithet": "gallopavo",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-02T00:13:19",
+    "decimalLatitude": 46.409699,
+    "decimalLongitude": -84.089086,
+    "coordinateUncertaintyInMeters": 31.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.1_1",
+        "name": "Algoma"
+      },
+      "level3": {
+        "gid": "CAN.9.1.16_1",
+        "name": "Laird"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 1,
+    "eventDate": "2025-01-01T14:22",
+    "startDayOfYear": 1,
+    "endDayOfYear": 1,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-02T00:22:43.000+00:00",
+    "lastInterpreted": "2026-09-30T02:04:55.952+00:00",
+    "references": "https://www.inaturalist.org/observations/257063493",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257063493"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461059151",
+        "created": "2025-01-01T22:22:24.000+00:00",
+        "creator": "Trent Massey",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Trent Massey",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461059151/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Trent Massey",
+    "identifiedBy": "Trent Massey",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Trent Massey",
+    "identifier": "257063493",
+    "http://unknown.org/nick": "trent-massey",
+    "verbatimEventDate": "2025/01/01 2:22 PM",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006690829",
+    "verbatimLocality": "spencer's",
+    "occurrenceID": "https://www.inaturalist.org/observations/257063493",
+    "taxonID": "906",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257063493",
+    "institutionCode": "iNaturalist",
+    "eventTime": "14:22:00-05:00",
+    "identificationID": "579370683"
+  },
+  {
+    "key": 5006691035,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:41:03.806+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T12:48:35-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461234145/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461234145",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461234145",
+          "http://purl.org/dc/terms/rightsHolder": "Emmet Blanchett-Neheli",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Emmet Blanchett-Neheli"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "74ZTP",
+          "name": "Osmerus mordax (Mitchill, 1814)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Mitchill, 1814)",
+          "genericName": "Osmerus",
+          "specificEpithet": "mordax",
+          "formattedName": "<i>Osmerus</i> <i>mordax</i> (Mitchill, 1814)"
+        },
+        "acceptedUsage": {
+          "key": "74ZTP",
+          "name": "Osmerus mordax (Mitchill, 1814)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Mitchill, 1814)",
+          "genericName": "Osmerus",
+          "specificEpithet": "mordax",
+          "formattedName": "<i>Osmerus</i> <i>mordax</i> (Mitchill, 1814)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "8VR36",
+            "name": "Actinopterygii",
+            "rank": "GIGACLASS"
+          },
+          {
+            "key": "KTWM8",
+            "name": "Actinopteri",
+            "rank": "SUPERCLASS"
+          },
+          {
+            "key": "8V4VD",
+            "name": "Teleostei",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3QF",
+            "name": "Osmeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "V98ZD",
+            "name": "Osmeroidei",
+            "rank": "SUBORDER"
+          },
+          {
+            "key": "KVKJP",
+            "name": "Osmeridae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "KVL6X",
+            "name": "Osmerus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "74ZTP",
+            "name": "Osmerus mordax",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "4283983",
+          "name": "Osmerus mordax (Mitchill, 1814)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Mitchill, 1814)",
+          "genericName": "Osmerus",
+          "specificEpithet": "mordax",
+          "formattedName": "<i>Osmerus</i> <i>mordax</i> (Mitchill, 1814)"
+        },
+        "acceptedUsage": {
+          "key": "4283983",
+          "name": "Osmerus mordax (Mitchill, 1814)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Mitchill, 1814)",
+          "genericName": "Osmerus",
+          "specificEpithet": "mordax",
+          "formattedName": "<i>Osmerus</i> <i>mordax</i> (Mitchill, 1814)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "1068",
+            "name": "Osmeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "8480",
+            "name": "Osmeridae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2401117",
+            "name": "Osmerus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "4283983",
+            "name": "Osmerus mordax",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 4283983,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "orderKey": 1068,
+    "familyKey": 8480,
+    "genusKey": 2401117,
+    "speciesKey": 4283983,
+    "acceptedTaxonKey": 4283983,
+    "scientificName": "Osmerus mordax (Mitchill, 1814)",
+    "scientificNameAuthorship": "(Mitchill, 1814)",
+    "acceptedScientificName": "Osmerus mordax (Mitchill, 1814)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Osmeriformes",
+    "family": "Osmeridae",
+    "genus": "Osmerus",
+    "species": "Osmerus mordax",
+    "genericName": "Osmerus",
+    "specificEpithet": "mordax",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-03T01:45:55",
+    "decimalLatitude": 43.12767,
+    "decimalLongitude": -79.060575,
+    "coordinateUncertaintyInMeters": 12.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.32_1",
+        "name": "Niagara"
+      },
+      "level3": {
+        "gid": "CAN.9.32.5_1",
+        "name": "Niagara Falls"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T12:48:35",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2026-05-06T17:59:47.000+00:00",
+    "lastInterpreted": "2026-09-30T02:41:03.806+00:00",
+    "references": "https://www.inaturalist.org/observations/257144824",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257144824"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461234145",
+        "created": "2025-01-02T20:48:35.000+00:00",
+        "creator": "Emmet Blanchett-Neheli",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Emmet Blanchett-Neheli",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461234145/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Emmet Blanchett-Neheli",
+    "identifiedBy": "Claude Noz\u00e8res",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Emmet Blanchett-Neheli",
+    "identifier": "257144824",
+    "http://unknown.org/nick": "emmetbn",
+    "verbatimEventDate": "2025-01-02 12:48:35",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006691035",
+    "verbatimLocality": "Niagara, CA-ON, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257144824",
+    "taxonID": "179504",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257144824",
+    "institutionCode": "iNaturalist",
+    "vitality": "dead",
+    "eventTime": "12:48:35-05:00",
+    "identificationID": "579708566"
+  },
+  {
+    "key": 5006691066,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:40:53.186+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T18:54:13Z",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461249959/original.jpg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461249959",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461249959",
+          "http://purl.org/dc/terms/rightsHolder": "Bren Zo",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Bren Zo"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "LPCK",
+          "name": "Betula papyrifera Marshall",
+          "rank": "SPECIES",
+          "code": "BOTANICAL",
+          "authorship": "Marshall",
+          "genericName": "Betula",
+          "specificEpithet": "papyrifera",
+          "formattedName": "<i>Betula</i> <i>papyrifera</i> Marshall"
+        },
+        "acceptedUsage": {
+          "key": "LPCK",
+          "name": "Betula papyrifera Marshall",
+          "rank": "SPECIES",
+          "code": "BOTANICAL",
+          "authorship": "Marshall",
+          "genericName": "Betula",
+          "specificEpithet": "papyrifera",
+          "formattedName": "<i>Betula</i> <i>papyrifera</i> Marshall"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "P",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CMQ8S",
+            "name": "Pteridobiotina",
+            "rank": "SUBKINGDOM"
+          },
+          {
+            "key": "TP",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "MG",
+            "name": "Magnoliopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "384",
+            "name": "Fagales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "LWT55",
+            "name": "Betulaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "V5CLG",
+            "name": "Betuloideae",
+            "rank": "SUBFAMILY"
+          },
+          {
+            "key": "8VVK7",
+            "name": "Betula",
+            "rank": "GENUS"
+          },
+          {
+            "key": "LPCK",
+            "name": "Betula papyrifera",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "5332120",
+          "name": "Betula papyrifera Marshall",
+          "rank": "SPECIES",
+          "authorship": "Marshall",
+          "genericName": "Betula",
+          "specificEpithet": "papyrifera",
+          "formattedName": "<i>Betula</i> <i>papyrifera</i> Marshall"
+        },
+        "acceptedUsage": {
+          "key": "5332120",
+          "name": "Betula papyrifera Marshall",
+          "rank": "SPECIES",
+          "authorship": "Marshall",
+          "genericName": "Betula",
+          "specificEpithet": "papyrifera",
+          "formattedName": "<i>Betula</i> <i>papyrifera</i> Marshall"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "6",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "7707728",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "220",
+            "name": "Magnoliopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "1354",
+            "name": "Fagales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "4688",
+            "name": "Betulaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2875008",
+            "name": "Betula",
+            "rank": "GENUS"
+          },
+          {
+            "key": "5332120",
+            "name": "Betula papyrifera",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 5332120,
+    "kingdomKey": 6,
+    "phylumKey": 7707728,
+    "classKey": 220,
+    "orderKey": 1354,
+    "familyKey": 4688,
+    "genusKey": 2875008,
+    "speciesKey": 5332120,
+    "acceptedTaxonKey": 5332120,
+    "scientificName": "Betula papyrifera Marshall",
+    "scientificNameAuthorship": "Marshall",
+    "acceptedScientificName": "Betula papyrifera Marshall",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "order": "Fagales",
+    "family": "Betulaceae",
+    "genus": "Betula",
+    "species": "Betula papyrifera",
+    "genericName": "Betula",
+    "specificEpithet": "papyrifera",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-02T20:11:04",
+    "decimalLatitude": 43.898095,
+    "decimalLongitude": -79.455688,
+    "coordinateUncertaintyInMeters": 5.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.53_1",
+        "name": "York"
+      },
+      "level3": {
+        "gid": "CAN.9.53.8_1",
+        "name": "Richmond Hill"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T13:54:13",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-04-10T23:09:55.000+00:00",
+    "lastInterpreted": "2026-09-30T02:40:53.186+00:00",
+    "references": "https://www.inaturalist.org/observations/257157305",
+    "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257157305"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461249959",
+        "created": "2025-01-02T18:54:13.000+00:00",
+        "creator": "Bren Zo",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "rightsHolder": "Bren Zo",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461249959/original.jpg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Bren Zo",
+    "identifiedBy": "Bren Zo",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Magnoliopsida",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Bren Zo",
+    "identifier": "257157305",
+    "http://unknown.org/nick": "brenzan",
+    "verbatimEventDate": "2025-01-02 13:54:13-05:00",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006691066",
+    "verbatimLocality": "Aztec Crt, Richmond Hill, ON, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257157305",
+    "taxonID": "49883",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257157305",
+    "institutionCode": "iNaturalist",
+    "eventTime": "13:54:13-05:00",
+    "identificationID": "579627115"
+  },
+  {
+    "key": 5006691073,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:51:39.838+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T10:38:53-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461255034/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461255034",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461255034",
+          "http://purl.org/dc/terms/rightsHolder": "Belinda Gallagher",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Belinda Gallagher"
+        },
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T10:38:58-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461255926/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461255926",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461255926",
+          "http://purl.org/dc/terms/rightsHolder": "Belinda Gallagher",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Belinda Gallagher"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "7TCSX",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "acceptedUsage": {
+          "key": "7TCSX",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3TR",
+            "name": "Piciformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "625L8",
+            "name": "Picidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "K5T",
+            "name": "Picinae",
+            "rank": "SUBFAMILY"
+          },
+          {
+            "key": "7NXMX",
+            "name": "Dryobates",
+            "rank": "GENUS"
+          },
+          {
+            "key": "7TCSX",
+            "name": "Dryobates pubescens",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "9149595",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "acceptedUsage": {
+          "key": "9149595",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "724",
+            "name": "Piciformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9333",
+            "name": "Picidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "8399994",
+            "name": "Dryobates",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9149595",
+            "name": "Dryobates pubescens",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 9149595,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 724,
+    "familyKey": 9333,
+    "genusKey": 8399994,
+    "speciesKey": 9149595,
+    "acceptedTaxonKey": 9149595,
+    "scientificName": "Dryobates pubescens (Linnaeus, 1766)",
+    "scientificNameAuthorship": "(Linnaeus, 1766)",
+    "acceptedScientificName": "Dryobates pubescens (Linnaeus, 1766)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Dryobates",
+    "species": "Dryobates pubescens",
+    "genericName": "Dryobates",
+    "specificEpithet": "pubescens",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-02T20:47:17",
+    "decimalLatitude": 45.012722,
+    "decimalLongitude": -78.284038,
+    "coordinateUncertaintyInMeters": 500.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.14_1",
+        "name": "Haliburton"
+      },
+      "level3": {
+        "gid": "CAN.9.14.2_1",
+        "name": "Highlands East"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T10:38",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-04-10T23:14:42.000+00:00",
+    "lastInterpreted": "2026-09-30T02:51:39.838+00:00",
+    "references": "https://www.inaturalist.org/observations/257160554",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257160554"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461255034",
+        "created": "2025-01-02T18:38:53.000+00:00",
+        "creator": "Belinda Gallagher",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Belinda Gallagher",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461255034/original.jpeg"
+      },
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461255926",
+        "created": "2025-01-02T18:38:58.000+00:00",
+        "creator": "Belinda Gallagher",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Belinda Gallagher",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461255926/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Belinda Gallagher",
+    "identifiedBy": "Belinda Gallagher",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Belinda Gallagher",
+    "identifier": "257160554",
+    "http://unknown.org/nick": "daswamp",
+    "verbatimEventDate": "2025/01/02 10:38 AM",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006691073",
+    "verbatimLocality": "Culvers Pond",
+    "occurrenceID": "https://www.inaturalist.org/observations/257160554",
+    "taxonID": "792988",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257160554",
+    "institutionCode": "iNaturalist",
+    "eventTime": "10:38:00-05:00",
+    "identificationID": "579635514"
+  },
+  {
+    "key": 5006691782,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:38:33.222+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T09:33:24-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/460999703/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "460999703",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/460999703",
+          "http://purl.org/dc/terms/rightsHolder": "Audrey Heagy",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Audrey Heagy"
+        },
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T09:34:53-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/460999834/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "460999834",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/460999834",
+          "http://purl.org/dc/terms/rightsHolder": "Audrey Heagy",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Audrey Heagy"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "4J2G5",
+          "name": "Pinus resinosa Aiton",
+          "rank": "SPECIES",
+          "code": "BOTANICAL",
+          "authorship": "Aiton",
+          "genericName": "Pinus",
+          "specificEpithet": "resinosa",
+          "formattedName": "<i>Pinus</i> <i>resinosa</i> Aiton"
+        },
+        "acceptedUsage": {
+          "key": "4J2G5",
+          "name": "Pinus resinosa Aiton",
+          "rank": "SPECIES",
+          "code": "BOTANICAL",
+          "authorship": "Aiton",
+          "genericName": "Pinus",
+          "specificEpithet": "resinosa",
+          "formattedName": "<i>Pinus</i> <i>resinosa</i> Aiton"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "P",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CMQ8S",
+            "name": "Pteridobiotina",
+            "rank": "SUBKINGDOM"
+          },
+          {
+            "key": "TP",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "C7ZVJ",
+            "name": "Pinopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "C84L5",
+            "name": "Pinidae",
+            "rank": "SUBCLASS"
+          },
+          {
+            "key": "C7ZVH",
+            "name": "Pinales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "C7ZVG",
+            "name": "Pinaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "C84WJ",
+            "name": "Pinus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "4J2G5",
+            "name": "Pinus resinosa",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "5285067",
+          "name": "Pinus resinosa Aiton",
+          "rank": "SPECIES",
+          "authorship": "Aiton",
+          "genericName": "Pinus",
+          "specificEpithet": "resinosa",
+          "formattedName": "<i>Pinus</i> <i>resinosa</i> Aiton"
+        },
+        "acceptedUsage": {
+          "key": "5285067",
+          "name": "Pinus resinosa Aiton",
+          "rank": "SPECIES",
+          "authorship": "Aiton",
+          "genericName": "Pinus",
+          "specificEpithet": "resinosa",
+          "formattedName": "<i>Pinus</i> <i>resinosa</i> Aiton"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "6",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "7707728",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "194",
+            "name": "Pinopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "640",
+            "name": "Pinales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "3925",
+            "name": "Pinaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2684241",
+            "name": "Pinus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "5285067",
+            "name": "Pinus resinosa",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 5285067,
+    "kingdomKey": 6,
+    "phylumKey": 7707728,
+    "classKey": 194,
+    "orderKey": 640,
+    "familyKey": 3925,
+    "genusKey": 2684241,
+    "speciesKey": 5285067,
+    "acceptedTaxonKey": 5285067,
+    "scientificName": "Pinus resinosa Aiton",
+    "scientificNameAuthorship": "Aiton",
+    "acceptedScientificName": "Pinus resinosa Aiton",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "order": "Pinales",
+    "family": "Pinaceae",
+    "genus": "Pinus",
+    "species": "Pinus resinosa",
+    "genericName": "Pinus",
+    "specificEpithet": "resinosa",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-01T19:50:20",
+    "decimalLatitude": 42.69819,
+    "decimalLongitude": -80.412689,
+    "coordinateUncertaintyInMeters": 7.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.13_1",
+        "name": "Haldimand-Norfolk"
+      },
+      "level3": {
+        "gid": "CAN.9.13.3_1",
+        "name": "Norfolk"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 1,
+    "eventDate": "2025-01-01T09:32:54",
+    "startDayOfYear": 1,
+    "endDayOfYear": 1,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-02-10T03:01:33.000+00:00",
+    "lastInterpreted": "2026-09-30T02:38:33.222+00:00",
+    "references": "https://www.inaturalist.org/observations/257034742",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257034742"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/460999703",
+        "created": "2025-01-01T17:33:24.000+00:00",
+        "creator": "Audrey Heagy",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Audrey Heagy",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/460999703/original.jpeg"
+      },
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/460999834",
+        "created": "2025-01-01T17:34:53.000+00:00",
+        "creator": "Audrey Heagy",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Audrey Heagy",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/460999834/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Audrey Heagy",
+    "identifiedBy": "Audrey Heagy",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Pinopsida",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Audrey Heagy",
+    "identifier": "257034742",
+    "http://unknown.org/nick": "aheagy",
+    "verbatimEventDate": "2025-01-01 09:32:54",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006691782",
+    "verbatimLocality": "St Williams, ON N0E 1P0, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257034742",
+    "taxonID": "52383",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257034742",
+    "institutionCode": "iNaturalist",
+    "eventTime": "09:32:54-05:00",
+    "identificationID": "579293493"
+  },
+  {
+    "key": 5006691793,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:24:43.110+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T12:38:45-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461005662/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461005662",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461005662",
+          "http://purl.org/dc/terms/rightsHolder": "Carter Dorscht",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Carter Dorscht"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "5FHX4",
+          "name": "Alnus incana subsp. rugosa (Du Roi) R.T.Clausen",
+          "rank": "SUBSPECIES",
+          "code": "BOTANICAL",
+          "authorship": "(Du Roi) R.T.Clausen",
+          "genericName": "Alnus",
+          "specificEpithet": "incana",
+          "infraspecificEpithet": "rugosa",
+          "formattedName": "<i>Alnus</i> <i>incana</i> subsp. <i>rugosa</i> (Du Roi) R.T.Clausen"
+        },
+        "acceptedUsage": {
+          "key": "C2ST",
+          "name": "Alnus rugosa (Du Roi) Spreng.",
+          "rank": "SPECIES",
+          "code": "BOTANICAL",
+          "authorship": "(Du Roi) Spreng.",
+          "genericName": "Alnus",
+          "specificEpithet": "rugosa",
+          "formattedName": "<i>Alnus</i> <i>rugosa</i> (Du Roi) Spreng."
+        },
+        "taxonomicStatus": "SYNONYM",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "P",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CMQ8S",
+            "name": "Pteridobiotina",
+            "rank": "SUBKINGDOM"
+          },
+          {
+            "key": "TP",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "MG",
+            "name": "Magnoliopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "384",
+            "name": "Fagales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "LWT55",
+            "name": "Betulaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "V5CLG",
+            "name": "Betuloideae",
+            "rank": "SUBFAMILY"
+          },
+          {
+            "key": "8VTM3",
+            "name": "Alnus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "C2ST",
+            "name": "Alnus rugosa",
+            "rank": "SPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "2876469",
+          "name": "Alnus incana subsp. rugosa (Du Roi) R.T.Clausen",
+          "rank": "SUBSPECIES",
+          "code": "BOTANICAL",
+          "authorship": "(Du Roi) R.T.Clausen",
+          "genericName": "Alnus",
+          "specificEpithet": "incana",
+          "infraspecificEpithet": "rugosa",
+          "formattedName": "<i>Alnus</i> <i>incana</i> subsp. <i>rugosa</i> (Du Roi) R.T.Clausen"
+        },
+        "acceptedUsage": {
+          "key": "2876469",
+          "name": "Alnus incana subsp. rugosa (Du Roi) R.T.Clausen",
+          "rank": "SUBSPECIES",
+          "code": "BOTANICAL",
+          "authorship": "(Du Roi) R.T.Clausen",
+          "genericName": "Alnus",
+          "specificEpithet": "incana",
+          "infraspecificEpithet": "rugosa",
+          "formattedName": "<i>Alnus</i> <i>incana</i> subsp. <i>rugosa</i> (Du Roi) R.T.Clausen"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "6",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "7707728",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "220",
+            "name": "Magnoliopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "1354",
+            "name": "Fagales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "4688",
+            "name": "Betulaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2876099",
+            "name": "Alnus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9148577",
+            "name": "Alnus incana",
+            "rank": "SPECIES"
+          },
+          {
+            "key": "2876469",
+            "name": "Alnus incana rugosa",
+            "rank": "SUBSPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 2876469,
+    "kingdomKey": 6,
+    "phylumKey": 7707728,
+    "classKey": 220,
+    "orderKey": 1354,
+    "familyKey": 4688,
+    "genusKey": 2876099,
+    "speciesKey": 9148577,
+    "acceptedTaxonKey": 2876469,
+    "scientificName": "Alnus incana subsp. rugosa (Du Roi) R.T.Clausen",
+    "scientificNameAuthorship": "(Du Roi) R.T.Clausen",
+    "acceptedScientificName": "Alnus incana subsp. rugosa (Du Roi) R.T.Clausen",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "order": "Fagales",
+    "family": "Betulaceae",
+    "genus": "Alnus",
+    "species": "Alnus incana",
+    "genericName": "Alnus",
+    "specificEpithet": "incana",
+    "infraspecificEpithet": "rugosa",
+    "taxonRank": "SUBSPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "dateIdentified": "2025-01-01T20:21:40",
+    "decimalLatitude": 46.065788,
+    "decimalLongitude": -83.944191,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.22_1",
+        "name": "Lake Hurron"
+      },
+      "level3": {
+        "gid": "CAN.9.22.1_1",
+        "name": "Lake Hurron"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 1,
+    "eventDate": "2025-01-01T12:38:45",
+    "startDayOfYear": 1,
+    "endDayOfYear": 1,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-04-10T19:20:21.000+00:00",
+    "lastInterpreted": "2026-09-30T02:24:43.110+00:00",
+    "references": "https://www.inaturalist.org/observations/257037628",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257037628"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461005662",
+        "created": "2025-01-01T20:38:45.000+00:00",
+        "creator": "Carter Dorscht",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "rightsHolder": "Carter Dorscht",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461005662/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Carter Dorscht",
+    "identifiedBy": "Carter Dorscht",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Magnoliopsida",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Carter Dorscht",
+    "identifier": "257037628",
+    "http://unknown.org/nick": "carterdorscht",
+    "verbatimEventDate": "2025-01-01 12:38:45",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006691793",
+    "verbatimLocality": "Jocelyn, ON P0R, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257037628",
+    "taxonID": "54237",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257037628",
+    "institutionCode": "iNaturalist",
+    "eventTime": "12:38:45-05:00",
+    "identificationID": "579303158"
+  },
+  {
+    "key": 5006691895,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:38:34.545+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-01T11:52:39-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461083927/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461083927",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461083927",
+          "http://purl.org/dc/terms/rightsHolder": "Derek Fleming",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Derek Fleming"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "sex": "Male",
+    "lifeStage": "Adult",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "R56G",
+          "name": "Cardinalis cardinalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Cardinalis",
+          "specificEpithet": "cardinalis",
+          "formattedName": "<i>Cardinalis</i> <i>cardinalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "R56G",
+          "name": "Cardinalis cardinalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Cardinalis",
+          "specificEpithet": "cardinalis",
+          "formattedName": "<i>Cardinalis</i> <i>cardinalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3RL",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "7QR",
+            "name": "Cardinalidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "62KGQ",
+            "name": "Cardinalis",
+            "rank": "GENUS"
+          },
+          {
+            "key": "R56G",
+            "name": "Cardinalis cardinalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "2490384",
+          "name": "Cardinalis cardinalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Cardinalis",
+          "specificEpithet": "cardinalis",
+          "formattedName": "<i>Cardinalis</i> <i>cardinalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "2490384",
+          "name": "Cardinalis cardinalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Cardinalis",
+          "specificEpithet": "cardinalis",
+          "formattedName": "<i>Cardinalis</i> <i>cardinalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "729",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9285",
+            "name": "Cardinalidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "3241527",
+            "name": "Cardinalis",
+            "rank": "GENUS"
+          },
+          {
+            "key": "2490384",
+            "name": "Cardinalis cardinalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 2490384,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 729,
+    "familyKey": 9285,
+    "genusKey": 3241527,
+    "speciesKey": 2490384,
+    "acceptedTaxonKey": 2490384,
+    "scientificName": "Cardinalis cardinalis (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Cardinalis cardinalis (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Passeriformes",
+    "family": "Cardinalidae",
+    "genus": "Cardinalis",
+    "species": "Cardinalis cardinalis",
+    "genericName": "Cardinalis",
+    "specificEpithet": "cardinalis",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-02T02:09:32",
+    "decimalLatitude": 43.404978,
+    "decimalLongitude": -79.762413,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.15_1",
+        "name": "Halton"
+      },
+      "level3": {
+        "gid": "CAN.9.15.4_1",
+        "name": "Oakville"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 1,
+    "eventDate": "2025-01-01T11:52:39",
+    "startDayOfYear": 1,
+    "endDayOfYear": 1,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-02T12:28:37.000+00:00",
+    "lastInterpreted": "2026-09-30T02:38:34.545+00:00",
+    "references": "https://www.inaturalist.org/observations/257075200",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257075200"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461083927",
+        "created": "2025-01-01T19:52:39.000+00:00",
+        "creator": "Derek Fleming",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Derek Fleming",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461083927/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Derek Fleming",
+    "identifiedBy": "Derek Fleming",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Derek Fleming",
+    "identifier": "257075200",
+    "http://unknown.org/nick": "derekf525",
+    "verbatimEventDate": "2025-01-01 11:52:39",
+    "http://unknown.org/crawl_attempt": "607",
+    "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006691895",
+    "verbatimLocality": "C63M+XQ, Oakville, ON L6M 4J7, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257075200",
+    "taxonID": "9083",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257075200",
+    "institutionCode": "iNaturalist",
+    "vitality": "alive",
+    "eventTime": "11:52:39-05:00",
+    "identificationID": "579399408"
+  },
+  {
+    "key": 5006692046,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:24:42.912+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T09:22:06-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461199393/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461199393",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461199393",
+          "http://purl.org/dc/terms/rightsHolder": "treelogical",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "treelogical"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "4428K",
+          "name": "Monarda fistulosa L.",
+          "rank": "SPECIES",
+          "code": "BOTANICAL",
+          "authorship": "L.",
+          "genericName": "Monarda",
+          "specificEpithet": "fistulosa",
+          "formattedName": "<i>Monarda</i> <i>fistulosa</i> L."
+        },
+        "acceptedUsage": {
+          "key": "4428K",
+          "name": "Monarda fistulosa L.",
+          "rank": "SPECIES",
+          "code": "BOTANICAL",
+          "authorship": "L.",
+          "genericName": "Monarda",
+          "specificEpithet": "fistulosa",
+          "formattedName": "<i>Monarda</i> <i>fistulosa</i> L."
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "P",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CMQ8S",
+            "name": "Pteridobiotina",
+            "rank": "SUBKINGDOM"
+          },
+          {
+            "key": "TP",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "MG",
+            "name": "Magnoliopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3F4",
+            "name": "Lamiales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "PR82T",
+            "name": "Lamiaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "V5KN5",
+            "name": "Nepetoideae",
+            "rank": "SUBFAMILY"
+          },
+          {
+            "key": "V5L69",
+            "name": "Mentheae",
+            "rank": "TRIBE"
+          },
+          {
+            "key": "V5GST",
+            "name": "Cunilinae",
+            "rank": "SUBTRIBE"
+          },
+          {
+            "key": "8VZG8",
+            "name": "Monarda",
+            "rank": "GENUS"
+          },
+          {
+            "key": "4428K",
+            "name": "Monarda fistulosa",
+            "rank": "SPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "5341411",
+          "name": "Monarda fistulosa L.",
+          "rank": "SPECIES",
+          "authorship": "L.",
+          "genericName": "Monarda",
+          "specificEpithet": "fistulosa",
+          "formattedName": "<i>Monarda</i> <i>fistulosa</i> L."
+        },
+        "acceptedUsage": {
+          "key": "5341411",
+          "name": "Monarda fistulosa L.",
+          "rank": "SPECIES",
+          "authorship": "L.",
+          "genericName": "Monarda",
+          "specificEpithet": "fistulosa",
+          "formattedName": "<i>Monarda</i> <i>fistulosa</i> L."
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "6",
+            "name": "Plantae",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "7707728",
+            "name": "Tracheophyta",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "220",
+            "name": "Magnoliopsida",
+            "rank": "CLASS"
+          },
+          {
+            "key": "408",
+            "name": "Lamiales",
+            "rank": "ORDER"
+          },
+          {
+            "key": "2497",
+            "name": "Lamiaceae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2926838",
+            "name": "Monarda",
+            "rank": "GENUS"
+          },
+          {
+            "key": "5341411",
+            "name": "Monarda fistulosa",
+            "rank": "SPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 5341411,
+    "kingdomKey": 6,
+    "phylumKey": 7707728,
+    "classKey": 220,
+    "orderKey": 408,
+    "familyKey": 2497,
+    "genusKey": 2926838,
+    "speciesKey": 5341411,
+    "acceptedTaxonKey": 5341411,
+    "scientificName": "Monarda fistulosa L.",
+    "scientificNameAuthorship": "L.",
+    "acceptedScientificName": "Monarda fistulosa L.",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "order": "Lamiales",
+    "family": "Lamiaceae",
+    "genus": "Monarda",
+    "species": "Monarda fistulosa",
+    "genericName": "Monarda",
+    "specificEpithet": "fistulosa",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "dateIdentified": "2025-01-02T14:54:56",
+    "decimalLatitude": 44.611917,
+    "decimalLongitude": -78.835506,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.19_1",
+        "name": "Kawartha Lakes"
+      },
+      "level3": {
+        "gid": "CAN.9.19.1_1",
+        "name": "Kawartha Lakes"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T09:22:06",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-04-10T22:27:57.000+00:00",
+    "lastInterpreted": "2026-09-30T02:24:42.912+00:00",
+    "references": "https://www.inaturalist.org/observations/257129480",
+    "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257129480"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461199393",
+        "created": "2025-01-02T17:22:06.000+00:00",
+        "creator": "treelogical",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "rightsHolder": "treelogical",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461199393/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "treelogical",
+    "identifiedBy": "treelogical",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Magnoliopsida",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "treelogical",
+    "identifier": "257129480",
+    "http://unknown.org/nick": "treelogical",
+    "verbatimEventDate": "2025-01-02 09:22:06",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006692046",
+    "verbatimLocality": "Kawartha Lakes, ON K0M 2B0, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257129480",
+    "taxonID": "85320",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257129480",
+    "institutionCode": "iNaturalist",
+    "eventTime": "09:22:06-05:00",
+    "identificationID": "579549209"
+  },
+  {
+    "key": 5006692139,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "US",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:56:07.335+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T17:27:52Z",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461258084/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461258084",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461258084",
+          "http://purl.org/dc/terms/rightsHolder": "Jules Reppert",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Jules Reppert"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "5J6D4",
+          "name": "Junco hyemalis hyemalis (Linnaeus, 1758)",
+          "rank": "SUBSPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "infraspecificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "5J6D4",
+          "name": "Junco hyemalis hyemalis (Linnaeus, 1758)",
+          "rank": "SUBSPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "infraspecificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3RL",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9G6YK",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "56XW",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "6NFHF",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          },
+          {
+            "key": "5J6D4",
+            "name": "Junco hyemalis hyemalis",
+            "rank": "SUBSPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "7191958",
+          "name": "Junco hyemalis hyemalis (Linnaeus, 1758)",
+          "rank": "SUBSPECIES",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "infraspecificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "7191958",
+          "name": "Junco hyemalis hyemalis (Linnaeus, 1758)",
+          "rank": "SUBSPECIES",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "infraspecificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "729",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9410667",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2492009",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9362842",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          },
+          {
+            "key": "7191958",
+            "name": "Junco hyemalis hyemalis",
+            "rank": "SUBSPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 7191958,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 729,
+    "familyKey": 9410667,
+    "genusKey": 2492009,
+    "speciesKey": 9362842,
+    "acceptedTaxonKey": 7191958,
+    "scientificName": "Junco hyemalis hyemalis (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Junco hyemalis hyemalis (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Passeriformes",
+    "family": "Passerellidae",
+    "genus": "Junco",
+    "species": "Junco hyemalis",
+    "genericName": "Junco",
+    "specificEpithet": "hyemalis",
+    "infraspecificEpithet": "hyemalis",
+    "taxonRank": "SUBSPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "decimalLatitude": 45.368653,
+    "decimalLongitude": -75.793025,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.35_1",
+        "name": "Ottawa"
+      },
+      "level3": {
+        "gid": "CAN.9.35.1_1",
+        "name": "Ottawa"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T12:27:52",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-03T01:46:52.000+00:00",
+    "lastInterpreted": "2026-09-30T02:56:07.335+00:00",
+    "references": "https://www.inaturalist.org/observations/257161370",
+    "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257161370"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461258084",
+        "created": "2025-01-02T17:27:52.000+00:00",
+        "creator": "Jules Reppert",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "rightsHolder": "Jules Reppert",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461258084/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Jules Reppert",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Jules Reppert",
+    "identifier": "257161370",
+    "http://unknown.org/nick": "julesthebirder",
+    "verbatimEventDate": "2025-01-02 12:27:52",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006692139",
+    "verbatimLocality": "Ottawa, ON K2B 7Y8, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257161370",
+    "taxonID": "132764",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257161370",
+    "institutionCode": "iNaturalist",
+    "eventTime": "12:27:52-05:00"
+  },
+  {
+    "key": 5006692157,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:24:52.514+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T20:10:54Z",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461271311/original.jpg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461271311",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461271311",
+          "http://purl.org/dc/terms/rightsHolder": "pinkcoffeecup",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "pinkcoffeecup"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "3ZTRQ",
+          "name": "Mergus serrator Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Mergus",
+          "specificEpithet": "serrator",
+          "formattedName": "<i>Mergus</i> <i>serrator</i> Linnaeus, 1758"
+        },
+        "acceptedUsage": {
+          "key": "3ZTRQ",
+          "name": "Mergus serrator Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Mergus",
+          "specificEpithet": "serrator",
+          "formattedName": "<i>Mergus</i> <i>serrator</i> Linnaeus, 1758"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "PQ",
+            "name": "Anseriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9H6K5",
+            "name": "Anatidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "5P8Q",
+            "name": "Mergus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "3ZTRQ",
+            "name": "Mergus serrator",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "2498375",
+          "name": "Mergus serrator Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Mergus",
+          "specificEpithet": "serrator",
+          "formattedName": "<i>Mergus</i> <i>serrator</i> Linnaeus, 1758"
+        },
+        "acceptedUsage": {
+          "key": "2498375",
+          "name": "Mergus serrator Linnaeus, 1758",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "Linnaeus, 1758",
+          "genericName": "Mergus",
+          "specificEpithet": "serrator",
+          "formattedName": "<i>Mergus</i> <i>serrator</i> Linnaeus, 1758"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "1108",
+            "name": "Anseriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "2986",
+            "name": "Anatidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2498368",
+            "name": "Mergus",
+            "rank": "GENUS"
+          },
+          {
+            "key": "2498375",
+            "name": "Mergus serrator",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 2498375,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 1108,
+    "familyKey": 2986,
+    "genusKey": 2498368,
+    "speciesKey": 2498375,
+    "acceptedTaxonKey": 2498375,
+    "scientificName": "Mergus serrator Linnaeus, 1758",
+    "scientificNameAuthorship": "Linnaeus, 1758",
+    "acceptedScientificName": "Mergus serrator Linnaeus, 1758",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mergus",
+    "species": "Mergus serrator",
+    "genericName": "Mergus",
+    "specificEpithet": "serrator",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-02T21:55:07",
+    "decimalLatitude": 43.684734,
+    "decimalLongitude": -79.537777,
+    "coordinateUncertaintyInMeters": 27443.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {},
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T15:10:54",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-08-11T15:04:49.000+00:00",
+    "lastInterpreted": "2026-09-30T02:24:52.514+00:00",
+    "references": "https://www.inaturalist.org/observations/257167413",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257167413"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461271311",
+        "created": "2025-01-02T20:10:54.000+00:00",
+        "creator": "pinkcoffeecup",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "pinkcoffeecup",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461271311/original.jpg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "pinkcoffeecup",
+    "identifiedBy": "pinkcoffeecup",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "pinkcoffeecup",
+    "identifier": "257167413",
+    "http://unknown.org/nick": "pinkcoffeecup",
+    "informationWithheld": "Coordinate uncertainty increased to 27443m at the request of the observer",
+    "verbatimEventDate": "2025-01-02 15:10:54-05:00",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006692157",
+    "verbatimLocality": "Ontario, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257167413",
+    "taxonID": "6996",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257167413",
+    "institutionCode": "iNaturalist",
+    "eventTime": "15:10:54-05:00",
+    "identificationID": "579651229"
+  },
+  {
+    "key": 5006692218,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "US",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:24:37.576+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T12:25:16-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461313103/original.jpg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461313103",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461313103",
+          "http://purl.org/dc/terms/rightsHolder": "Paul Tavares",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Paul Tavares"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "lifeStage": "Adult",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "7TCSX",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "acceptedUsage": {
+          "key": "7TCSX",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3TR",
+            "name": "Piciformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "625L8",
+            "name": "Picidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "K5T",
+            "name": "Picinae",
+            "rank": "SUBFAMILY"
+          },
+          {
+            "key": "7NXMX",
+            "name": "Dryobates",
+            "rank": "GENUS"
+          },
+          {
+            "key": "7TCSX",
+            "name": "Dryobates pubescens",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "9149595",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "acceptedUsage": {
+          "key": "9149595",
+          "name": "Dryobates pubescens (Linnaeus, 1766)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1766)",
+          "genericName": "Dryobates",
+          "specificEpithet": "pubescens",
+          "formattedName": "<i>Dryobates</i> <i>pubescens</i> (Linnaeus, 1766)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "724",
+            "name": "Piciformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9333",
+            "name": "Picidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "8399994",
+            "name": "Dryobates",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9149595",
+            "name": "Dryobates pubescens",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 9149595,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 724,
+    "familyKey": 9333,
+    "genusKey": 8399994,
+    "speciesKey": 9149595,
+    "acceptedTaxonKey": 9149595,
+    "scientificName": "Dryobates pubescens (Linnaeus, 1766)",
+    "scientificNameAuthorship": "(Linnaeus, 1766)",
+    "acceptedScientificName": "Dryobates pubescens (Linnaeus, 1766)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Dryobates",
+    "species": "Dryobates pubescens",
+    "genericName": "Dryobates",
+    "specificEpithet": "pubescens",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-03T01:39:21",
+    "decimalLatitude": 43.293036,
+    "decimalLongitude": -79.87839,
+    "coordinateUncertaintyInMeters": 12.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.15_1",
+        "name": "Halton"
+      },
+      "level3": {
+        "gid": "CAN.9.15.1_1",
+        "name": "Burlington"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T12:25",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-12-09T05:43:40.000+00:00",
+    "lastInterpreted": "2026-09-30T02:24:37.576+00:00",
+    "references": "https://www.inaturalist.org/observations/257188698",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257188698"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461313103",
+        "created": "2025-01-02T20:25:16.000+00:00",
+        "creator": "Paul Tavares",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Paul Tavares",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461313103/original.jpg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Paul Tavares",
+    "identifiedBy": "Paul Tavares",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Paul Tavares",
+    "identifier": "257188698",
+    "http://unknown.org/nick": "paultavares",
+    "verbatimEventDate": "2025/01/02 12:25 PM",
+    "http://unknown.org/crawl_attempt": "607",
+    "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006692218",
+    "verbatimLocality": "Hendrie Valley Nature Sanctuary, Burlington, ON, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257188698",
+    "taxonID": "792988",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257188698",
+    "institutionCode": "iNaturalist",
+    "vitality": "alive",
+    "eventTime": "12:25:00-05:00",
+    "identificationID": "579707073"
+  },
+  {
+    "key": 5006692221,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "US",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:51:50.793+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T13:43:48-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461317027/original.jpg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461317027",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461317027",
+          "http://purl.org/dc/terms/rightsHolder": "Paul Tavares",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Paul Tavares"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "sex": "Male",
+    "lifeStage": "Adult",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "3W3GS",
+          "name": "Lophodytes cucullatus (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Lophodytes",
+          "specificEpithet": "cucullatus",
+          "formattedName": "<i>Lophodytes</i> <i>cucullatus</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "3W3GS",
+          "name": "Lophodytes cucullatus (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Lophodytes",
+          "specificEpithet": "cucullatus",
+          "formattedName": "<i>Lophodytes</i> <i>cucullatus</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "PQ",
+            "name": "Anseriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9H6K5",
+            "name": "Anatidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "5GL3",
+            "name": "Lophodytes",
+            "rank": "GENUS"
+          },
+          {
+            "key": "3W3GS",
+            "name": "Lophodytes cucullatus",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "2498408",
+          "name": "Lophodytes cucullatus (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Lophodytes",
+          "specificEpithet": "cucullatus",
+          "formattedName": "<i>Lophodytes</i> <i>cucullatus</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "2498408",
+          "name": "Lophodytes cucullatus (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Lophodytes",
+          "specificEpithet": "cucullatus",
+          "formattedName": "<i>Lophodytes</i> <i>cucullatus</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "1108",
+            "name": "Anseriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "2986",
+            "name": "Anatidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2498407",
+            "name": "Lophodytes",
+            "rank": "GENUS"
+          },
+          {
+            "key": "2498408",
+            "name": "Lophodytes cucullatus",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 2498408,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 1108,
+    "familyKey": 2986,
+    "genusKey": 2498407,
+    "speciesKey": 2498408,
+    "acceptedTaxonKey": 2498408,
+    "scientificName": "Lophodytes cucullatus (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Lophodytes cucullatus (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Lophodytes",
+    "species": "Lophodytes cucullatus",
+    "genericName": "Lophodytes",
+    "specificEpithet": "cucullatus",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-03T02:00:43",
+    "decimalLatitude": 43.294652,
+    "decimalLongitude": -79.879515,
+    "coordinateUncertaintyInMeters": 12.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.15_1",
+        "name": "Halton"
+      },
+      "level3": {
+        "gid": "CAN.9.15.1_1",
+        "name": "Burlington"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 2,
+    "eventDate": "2025-01-02T13:43",
+    "startDayOfYear": 2,
+    "endDayOfYear": 2,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-04T18:12:54.000+00:00",
+    "lastInterpreted": "2026-09-30T02:51:50.793+00:00",
+    "references": "https://www.inaturalist.org/observations/257190389",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257190389"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461317027",
+        "created": "2025-01-02T21:43:48.000+00:00",
+        "creator": "Paul Tavares",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Paul Tavares",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461317027/original.jpg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Paul Tavares",
+    "identifiedBy": "Paul Tavares",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Paul Tavares",
+    "identifier": "257190389",
+    "http://unknown.org/nick": "paultavares",
+    "verbatimEventDate": "2025/01/02 1:43 PM",
+    "http://unknown.org/crawl_attempt": "607",
+    "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006692221",
+    "verbatimLocality": "Hendrie Valley Nature Sanctuary, Burlington, ON, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257190389",
+    "taxonID": "7109",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257190389",
+    "institutionCode": "iNaturalist",
+    "vitality": "alive",
+    "eventTime": "13:43:00-05:00",
+    "identificationID": "579711536"
+  },
+  {
+    "key": 5006700311,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:24:43.201+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-02T23:26:34-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461511231/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461511231",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461511231",
+          "http://purl.org/dc/terms/rightsHolder": "mitchoutdoors",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "mitchoutdoors"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "6NFHF",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "6NFHF",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3RL",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9G6YK",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "56XW",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "6NFHF",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "9362842",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "9362842",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "729",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9410667",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2492009",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9362842",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 9362842,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 729,
+    "familyKey": 9410667,
+    "genusKey": 2492009,
+    "speciesKey": 9362842,
+    "acceptedTaxonKey": 9362842,
+    "scientificName": "Junco hyemalis (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Junco hyemalis (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Passeriformes",
+    "family": "Passerellidae",
+    "genus": "Junco",
+    "species": "Junco hyemalis",
+    "genericName": "Junco",
+    "specificEpithet": "hyemalis",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-03T23:47:32",
+    "decimalLatitude": 43.839519,
+    "decimalLongitude": -78.966141,
+    "coordinateUncertaintyInMeters": 13.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.7_1",
+        "name": "Durham"
+      },
+      "level3": {
+        "gid": "CAN.9.7.9_1",
+        "name": "Whitby"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 3,
+    "eventDate": "2025-01-03T09:00",
+    "startDayOfYear": 3,
+    "endDayOfYear": 3,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-04-11T02:26:07.000+00:00",
+    "lastInterpreted": "2026-09-30T02:24:43.201+00:00",
+    "references": "https://www.inaturalist.org/observations/257289640",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257289640"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461511231",
+        "created": "2025-01-03T07:26:34.000+00:00",
+        "creator": "mitchoutdoors",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "mitchoutdoors",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461511231/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "mitchoutdoors",
+    "identifiedBy": "mitchoutdoors",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "mitchoutdoors",
+    "identifier": "257289640",
+    "http://unknown.org/nick": "mitchoutdoors",
+    "verbatimEventDate": "2025/01/03 9:00 AM",
+    "http://unknown.org/crawl_attempt": "607",
+    "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006700311",
+    "verbatimLocality": "Whitby, ON, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257289640",
+    "taxonID": "10094",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257289640",
+    "institutionCode": "iNaturalist",
+    "vitality": "alive",
+    "eventTime": "09:00:00-05:00",
+    "identificationID": "579997905"
+  },
+  {
+    "key": 5006700318,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:56:25.169+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-04T00:28:32Z",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461523270/original.jpg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461523270",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461523270",
+          "http://purl.org/dc/terms/rightsHolder": "readtom2021",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "readtom2021"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "lifeStage": "Larva",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "3KZZM",
+          "name": "Hermetia illucens (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Hermetia",
+          "specificEpithet": "illucens",
+          "formattedName": "<i>Hermetia</i> <i>illucens</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "3KZZM",
+          "name": "Hermetia illucens (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Hermetia",
+          "specificEpithet": "illucens",
+          "formattedName": "<i>Hermetia</i> <i>illucens</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "RT",
+            "name": "Arthropoda",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "L2655",
+            "name": "Hexapoda",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "H6",
+            "name": "Insecta",
+            "rank": "CLASS"
+          },
+          {
+            "key": "D2P",
+            "name": "Diptera",
+            "rank": "ORDER"
+          },
+          {
+            "key": "GQH",
+            "name": "Stratiomyidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "87CHR",
+            "name": "Hermetiinae",
+            "rank": "SUBFAMILY"
+          },
+          {
+            "key": "BXYLN",
+            "name": "Hermetia",
+            "rank": "GENUS"
+          },
+          {
+            "key": "3KZZM",
+            "name": "Hermetia illucens",
+            "rank": "SPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "1577153",
+          "name": "Hermetia illucens (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Hermetia",
+          "specificEpithet": "illucens",
+          "formattedName": "<i>Hermetia</i> <i>illucens</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "1577153",
+          "name": "Hermetia illucens (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Hermetia",
+          "specificEpithet": "illucens",
+          "formattedName": "<i>Hermetia</i> <i>illucens</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "54",
+            "name": "Arthropoda",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "216",
+            "name": "Insecta",
+            "rank": "CLASS"
+          },
+          {
+            "key": "811",
+            "name": "Diptera",
+            "rank": "ORDER"
+          },
+          {
+            "key": "6923",
+            "name": "Stratiomyidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "1577117",
+            "name": "Hermetia",
+            "rank": "GENUS"
+          },
+          {
+            "key": "1577153",
+            "name": "Hermetia illucens",
+            "rank": "SPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 1577153,
+    "kingdomKey": 1,
+    "phylumKey": 54,
+    "classKey": 216,
+    "orderKey": 811,
+    "familyKey": 6923,
+    "genusKey": 1577117,
+    "speciesKey": 1577153,
+    "acceptedTaxonKey": 1577153,
+    "scientificName": "Hermetia illucens (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Hermetia illucens (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "order": "Diptera",
+    "family": "Stratiomyidae",
+    "genus": "Hermetia",
+    "species": "Hermetia illucens",
+    "genericName": "Hermetia",
+    "specificEpithet": "illucens",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "dateIdentified": "2025-01-04T00:33:07",
+    "decimalLatitude": 43.782284,
+    "decimalLongitude": -79.214644,
+    "coordinateUncertaintyInMeters": 2916.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.50_1",
+        "name": "Toronto"
+      },
+      "level3": {
+        "gid": "CAN.9.50.1_1",
+        "name": "Toronto"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 3,
+    "eventDate": "2025-01-03T19:28:32",
+    "startDayOfYear": 3,
+    "endDayOfYear": 3,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-04T19:33:17.000+00:00",
+    "lastInterpreted": "2026-09-30T02:56:25.169+00:00",
+    "references": "https://www.inaturalist.org/observations/257292846",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257292846"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461523270",
+        "created": "2025-01-04T00:28:32.000+00:00",
+        "creator": "readtom2021",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "readtom2021",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461523270/original.jpg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "readtom2021",
+    "identifiedBy": "readtom2021",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Insecta",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "readtom2021",
+    "identifier": "257292846",
+    "http://unknown.org/nick": "readtom2021",
+    "verbatimEventDate": "2025-01-03 19:28:32-05:00",
+    "http://unknown.org/crawl_attempt": "607",
+    "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006700318",
+    "verbatimLocality": "Morningside, Toronto, ON, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257292846",
+    "taxonID": "82177",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257292846",
+    "institutionCode": "iNaturalist",
+    "vitality": "alive",
+    "eventTime": "19:28:32-05:00",
+    "identificationID": "580007660"
+  },
+  {
+    "key": 5006700609,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:38:35.686+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-04T14:56:12-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461729023/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461729023",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461729023",
+          "http://purl.org/dc/terms/rightsHolder": "S. Hroncek",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "S. Hroncek"
+        },
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-04T14:57:01-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461729060/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461729060",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461729060",
+          "http://purl.org/dc/terms/rightsHolder": "S. Hroncek",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "S. Hroncek"
+        },
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-04T14:54:31-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461729071/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461729071",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461729071",
+          "http://purl.org/dc/terms/rightsHolder": "S. Hroncek",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "S. Hroncek"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "sex": "Male",
+    "lifeStage": "Adult",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "NM25",
+          "name": "Bucephala clangula (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Bucephala",
+          "specificEpithet": "clangula",
+          "formattedName": "<i>Bucephala</i> <i>clangula</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "NM25",
+          "name": "Bucephala clangula (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Bucephala",
+          "specificEpithet": "clangula",
+          "formattedName": "<i>Bucephala</i> <i>clangula</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "PQ",
+            "name": "Anseriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9H6K5",
+            "name": "Anatidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "62H58",
+            "name": "Bucephala",
+            "rank": "GENUS"
+          },
+          {
+            "key": "NM25",
+            "name": "Bucephala clangula",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "2498326",
+          "name": "Bucephala clangula (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Bucephala",
+          "specificEpithet": "clangula",
+          "formattedName": "<i>Bucephala</i> <i>clangula</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "2498326",
+          "name": "Bucephala clangula (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Bucephala",
+          "specificEpithet": "clangula",
+          "formattedName": "<i>Bucephala</i> <i>clangula</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "1108",
+            "name": "Anseriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "2986",
+            "name": "Anatidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2498324",
+            "name": "Bucephala",
+            "rank": "GENUS"
+          },
+          {
+            "key": "2498326",
+            "name": "Bucephala clangula",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 2498326,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 1108,
+    "familyKey": 2986,
+    "genusKey": 2498324,
+    "speciesKey": 2498326,
+    "acceptedTaxonKey": 2498326,
+    "scientificName": "Bucephala clangula (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Bucephala clangula (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Bucephala",
+    "species": "Bucephala clangula",
+    "genericName": "Bucephala",
+    "specificEpithet": "clangula",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-04T21:45:25",
+    "decimalLatitude": 43.164916,
+    "decimalLongitude": -79.26554,
+    "coordinateUncertaintyInMeters": 40.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.32_1",
+        "name": "Niagara"
+      },
+      "level3": {
+        "gid": "CAN.9.32.8_1",
+        "name": "St. Catharines"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 4,
+    "eventDate": "2025-01-04T14:56:12",
+    "startDayOfYear": 4,
+    "endDayOfYear": 4,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-27T20:48:47.000+00:00",
+    "lastInterpreted": "2026-09-30T02:38:35.686+00:00",
+    "references": "https://www.inaturalist.org/observations/257397338",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257397338"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461729023",
+        "created": "2025-01-04T22:56:12.000+00:00",
+        "creator": "S. Hroncek",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "S. Hroncek",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461729023/original.jpeg"
+      },
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461729060",
+        "created": "2025-01-04T22:57:01.000+00:00",
+        "creator": "S. Hroncek",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "S. Hroncek",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461729060/original.jpeg"
+      },
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461729071",
+        "created": "2025-01-04T22:54:31.000+00:00",
+        "creator": "S. Hroncek",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "S. Hroncek",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461729071/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "S. Hroncek",
+    "identifiedBy": "S. Hroncek",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "S. Hroncek",
+    "identifier": "257397338",
+    "http://unknown.org/nick": "violetephemera",
+    "verbatimEventDate": "2025-01-04 14:56:12",
+    "http://unknown.org/crawl_attempt": "607",
+    "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006700609",
+    "verbatimLocality": "St. Catharines, ON L2S 2Y3, Canada",
+    "occurrenceID": "https://www.inaturalist.org/observations/257397338",
+    "taxonID": "6990",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257397338",
+    "institutionCode": "iNaturalist",
+    "vitality": "alive",
+    "eventTime": "14:56:12-05:00",
+    "identificationID": "580289671"
+  },
+  {
+    "key": 5006700623,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:40:42.055+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-04T17:36:09-08:00",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461740470/original.jpeg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461740470",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461740470",
+          "http://purl.org/dc/terms/rightsHolder": "Ty",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "Ty"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "PJGX6",
+          "name": "Halyomorpha halys (St\u00e5l, 1855)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(St\u00e5l, 1855)",
+          "genericName": "Halyomorpha",
+          "specificEpithet": "halys",
+          "formattedName": "<i>Halyomorpha</i> <i>halys</i> (St\u00e5l, 1855)"
+        },
+        "acceptedUsage": {
+          "key": "PJGX6",
+          "name": "Halyomorpha halys (St\u00e5l, 1855)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(St\u00e5l, 1855)",
+          "genericName": "Halyomorpha",
+          "specificEpithet": "halys",
+          "formattedName": "<i>Halyomorpha</i> <i>halys</i> (St\u00e5l, 1855)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "RT",
+            "name": "Arthropoda",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "L2655",
+            "name": "Hexapoda",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "H6",
+            "name": "Insecta",
+            "rank": "CLASS"
+          },
+          {
+            "key": "BXVWV",
+            "name": "Hemiptera",
+            "rank": "ORDER"
+          },
+          {
+            "key": "BXWCX",
+            "name": "Heteroptera",
+            "rank": "SUBORDER"
+          },
+          {
+            "key": "BXWDD",
+            "name": "Pentatomomorpha",
+            "rank": "INFRAORDER"
+          },
+          {
+            "key": "BXWDQ",
+            "name": "Pentatomoidea",
+            "rank": "SUPERFAMILY"
+          },
+          {
+            "key": "BXWJD",
+            "name": "Pentatomidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "PJGWH",
+            "name": "Halyomorpha",
+            "rank": "GENUS"
+          },
+          {
+            "key": "PJGX6",
+            "name": "Halyomorpha halys",
+            "rank": "SPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "4485843",
+          "name": "Halyomorpha halys (St\u00e5l, 1855)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(St\u00e5l, 1855)",
+          "genericName": "Halyomorpha",
+          "specificEpithet": "halys",
+          "formattedName": "<i>Halyomorpha</i> <i>halys</i> (St\u00e5l, 1855)"
+        },
+        "acceptedUsage": {
+          "key": "4485843",
+          "name": "Halyomorpha halys (St\u00e5l, 1855)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(St\u00e5l, 1855)",
+          "genericName": "Halyomorpha",
+          "specificEpithet": "halys",
+          "formattedName": "<i>Halyomorpha</i> <i>halys</i> (St\u00e5l, 1855)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "54",
+            "name": "Arthropoda",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "216",
+            "name": "Insecta",
+            "rank": "CLASS"
+          },
+          {
+            "key": "809",
+            "name": "Hemiptera",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9650",
+            "name": "Pentatomidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "4404357",
+            "name": "Halyomorpha",
+            "rank": "GENUS"
+          },
+          {
+            "key": "4485843",
+            "name": "Halyomorpha halys",
+            "rank": "SPECIES"
+          }
+        ],
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 4485843,
+    "kingdomKey": 1,
+    "phylumKey": 54,
+    "classKey": 216,
+    "orderKey": 809,
+    "familyKey": 9650,
+    "genusKey": 4404357,
+    "speciesKey": 4485843,
+    "acceptedTaxonKey": 4485843,
+    "scientificName": "Halyomorpha halys (St\u00e5l, 1855)",
+    "scientificNameAuthorship": "(St\u00e5l, 1855)",
+    "acceptedScientificName": "Halyomorpha halys (St\u00e5l, 1855)",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "order": "Hemiptera",
+    "family": "Pentatomidae",
+    "genus": "Halyomorpha",
+    "species": "Halyomorpha halys",
+    "genericName": "Halyomorpha",
+    "specificEpithet": "halys",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "dateIdentified": "2025-01-04T22:37:18",
+    "decimalLatitude": 45.480427,
+    "decimalLongitude": -75.757332,
+    "coordinateUncertaintyInMeters": 27158.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {},
+    "year": 2025,
+    "month": 1,
+    "day": 4,
+    "eventDate": "2025-01-04T17:36:09",
+    "startDayOfYear": 4,
+    "endDayOfYear": 4,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-04-11T04:52:16.000+00:00",
+    "lastInterpreted": "2026-09-30T02:40:42.055+00:00",
+    "references": "https://www.inaturalist.org/observations/257402676",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257402676"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461740470",
+        "created": "2025-01-05T01:36:09.000+00:00",
+        "creator": "Ty",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "Ty",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461740470/original.jpeg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "Ty",
+    "identifiedBy": "Ty",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Insecta",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "Ty",
+    "identifier": "257402676",
+    "http://unknown.org/nick": "gentlepine",
+    "informationWithheld": "Coordinate uncertainty increased to 27158m at the request of the observer",
+    "verbatimEventDate": "2025-01-04 17:36:09",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006700623",
+    "verbatimLocality": "Ontario, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257402676",
+    "taxonID": "81923",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257402676",
+    "institutionCode": "iNaturalist",
+    "eventTime": "17:36:09-05:00",
+    "identificationID": "580309474"
+  },
+  {
+    "key": 5006700641,
+    "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+    "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "datasetCategory": [
+      "CitizenScience"
+    ],
+    "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+    "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+    "publishingCountry": "CA",
+    "protocol": "DWC_ARCHIVE",
+    "lastCrawled": "2026-09-29T07:50:34.840+00:00",
+    "lastParsed": "2026-09-30T02:38:37.362+00:00",
+    "crawlId": 607,
+    "extensions": {
+      "http://rs.gbif.org/terms/1.0/Multimedia": [
+        {
+          "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "http://purl.org/dc/terms/created": "2025-01-04T20:44:00Z",
+          "http://purl.org/dc/terms/publisher": "iNaturalist",
+          "http://purl.org/dc/terms/format": "image/jpeg",
+          "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461749565/original.jpg",
+          "http://rs.tdwg.org/dwc/terms/catalogNumber": "461749565",
+          "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/461749565",
+          "http://purl.org/dc/terms/rightsHolder": "postingtolearn",
+          "http://purl.org/dc/terms/type": "StillImage",
+          "http://purl.org/dc/terms/creator": "postingtolearn"
+        }
+      ]
+    },
+    "basisOfRecord": "HUMAN_OBSERVATION",
+    "occurrenceStatus": "PRESENT",
+    "classifications": {
+      "7ddf754f-d193-4cc9-b351-99906754a03b": {
+        "usage": {
+          "key": "6NFHF",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "6NFHF",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "CS5HF",
+            "name": "Eukaryota",
+            "rank": "DOMAIN"
+          },
+          {
+            "key": "N",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "CH2",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "8V4V3",
+            "name": "Vertebrata",
+            "rank": "SUBPHYLUM"
+          },
+          {
+            "key": "8V4V5",
+            "name": "Gnathostomata",
+            "rank": "INFRAPHYLUM"
+          },
+          {
+            "key": "8VVWB",
+            "name": "Osteichthyes",
+            "rank": "PARVPHYLUM"
+          },
+          {
+            "key": "9CK8W",
+            "name": "Tetrapoda",
+            "rank": "MEGACLASS"
+          },
+          {
+            "key": "V2",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "3RL",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9G6YK",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "56XW",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "6NFHF",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      },
+      "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+        "usage": {
+          "key": "9362842",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "acceptedUsage": {
+          "key": "9362842",
+          "name": "Junco hyemalis (Linnaeus, 1758)",
+          "rank": "SPECIES",
+          "code": "ZOOLOGICAL",
+          "authorship": "(Linnaeus, 1758)",
+          "genericName": "Junco",
+          "specificEpithet": "hyemalis",
+          "formattedName": "<i>Junco</i> <i>hyemalis</i> (Linnaeus, 1758)"
+        },
+        "taxonomicStatus": "ACCEPTED",
+        "classification": [
+          {
+            "key": "1",
+            "name": "Animalia",
+            "rank": "KINGDOM"
+          },
+          {
+            "key": "44",
+            "name": "Chordata",
+            "rank": "PHYLUM"
+          },
+          {
+            "key": "212",
+            "name": "Aves",
+            "rank": "CLASS"
+          },
+          {
+            "key": "729",
+            "name": "Passeriformes",
+            "rank": "ORDER"
+          },
+          {
+            "key": "9410667",
+            "name": "Passerellidae",
+            "rank": "FAMILY"
+          },
+          {
+            "key": "2492009",
+            "name": "Junco",
+            "rank": "GENUS"
+          },
+          {
+            "key": "9362842",
+            "name": "Junco hyemalis",
+            "rank": "SPECIES"
+          }
+        ],
+        "iucnRedListCategoryCode": "LC",
+        "issues": [
+          "TAXON_ID_NOT_FOUND"
+        ]
+      }
+    },
+    "taxonKey": 9362842,
+    "kingdomKey": 1,
+    "phylumKey": 44,
+    "classKey": 212,
+    "orderKey": 729,
+    "familyKey": 9410667,
+    "genusKey": 2492009,
+    "speciesKey": 9362842,
+    "acceptedTaxonKey": 9362842,
+    "scientificName": "Junco hyemalis (Linnaeus, 1758)",
+    "scientificNameAuthorship": "(Linnaeus, 1758)",
+    "acceptedScientificName": "Junco hyemalis (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "order": "Passeriformes",
+    "family": "Passerellidae",
+    "genus": "Junco",
+    "species": "Junco hyemalis",
+    "genericName": "Junco",
+    "specificEpithet": "hyemalis",
+    "taxonRank": "SPECIES",
+    "taxonomicStatus": "ACCEPTED",
+    "iucnRedListCategory": "LC",
+    "dateIdentified": "2025-01-04T23:24:55",
+    "decimalLatitude": 43.58172,
+    "decimalLongitude": -79.708512,
+    "coordinateUncertaintyInMeters": 27474.0,
+    "continent": "NORTH_AMERICA",
+    "stateProvince": "Ontario",
+    "gadm": {
+      "level0": {
+        "gid": "CAN",
+        "name": "Canada"
+      },
+      "level1": {
+        "gid": "CAN.9_1",
+        "name": "Ontario"
+      },
+      "level2": {
+        "gid": "CAN.9.38_1",
+        "name": "Peel"
+      },
+      "level3": {
+        "gid": "CAN.9.38.3_1",
+        "name": "Mississauga"
+      }
+    },
+    "year": 2025,
+    "month": 1,
+    "day": 4,
+    "eventDate": "2025-01-04T15:44",
+    "startDayOfYear": 4,
+    "endDayOfYear": 4,
+    "issues": [
+      "COORDINATE_ROUNDED",
+      "CONTINENT_DERIVED_FROM_COORDINATES",
+      "TAXON_ID_NOT_FOUND"
+    ],
+    "modified": "2025-01-05T17:30:41.000+00:00",
+    "lastInterpreted": "2026-09-30T02:38:37.362+00:00",
+    "references": "https://www.inaturalist.org/observations/257407406",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "isSequenced": false,
+    "identifiers": [
+      {
+        "identifier": "257407406"
+      }
+    ],
+    "media": [
+      {
+        "type": "StillImage",
+        "format": "image/jpeg",
+        "references": "https://www.inaturalist.org/photos/461749565",
+        "created": "2025-01-04T20:44:00.000+00:00",
+        "creator": "postingtolearn",
+        "publisher": "iNaturalist",
+        "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "rightsHolder": "postingtolearn",
+        "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/461749565/original.jpg"
+      }
+    ],
+    "facts": [],
+    "relations": [],
+    "isInCluster": false,
+    "datasetName": "iNaturalist research-grade observations",
+    "recordedBy": "postingtolearn",
+    "identifiedBy": "postingtolearn",
+    "dnaSequenceID": [],
+    "nucleotideSequence": [],
+    "geodeticDatum": "WGS84",
+    "class": "Aves",
+    "countryCode": "CA",
+    "recordedByIDs": [],
+    "identifiedByIDs": [],
+    "gbifRegion": "NORTH_AMERICA",
+    "country": "Canada",
+    "publishedByGbifRegion": "NORTH_AMERICA",
+    "rightsHolder": "postingtolearn",
+    "identifier": "257407406",
+    "http://unknown.org/nick": "postingtolearn",
+    "informationWithheld": "Coordinate uncertainty increased to 27474m at the request of the observer",
+    "verbatimEventDate": "2025-01-04 15:44:00-05:00",
+    "http://unknown.org/crawl_attempt": "607",
+    "http://unknown.org/status": "not_reviewed",
+    "collectionCode": "Observations",
+    "gbifID": "5006700641",
+    "verbatimLocality": "Ontario, CA",
+    "occurrenceID": "https://www.inaturalist.org/observations/257407406",
+    "taxonID": "10094",
+    "http://unknown.org/captive_cultivated": "wild",
+    "catalogNumber": "257407406",
+    "institutionCode": "iNaturalist",
+    "eventTime": "15:44:00-05:00",
+    "occurrenceRemarks": "Photo taken automatically by BirdBuddy feeder cam. Cropped and enhanced in iOS Photos > Edit.",
+    "identificationID": "580325058"
+  }
+]
